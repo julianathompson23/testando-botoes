@@ -1,5 +1,5 @@
 let titulo = document.querySelector("h1");
-titulo.innerHTML = "Hora do desafio";
+titulo.innerHTML = "Botões";
 
 function verificarClick() {
   console.log("Botão clicado");
