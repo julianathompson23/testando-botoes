@@ -1,5 +1,5 @@
 let titulo = document.querySelector("h1");
-titulo.innerHTML = "Botões";
+titulo.innerHTML = "Clique nos botões abaixo";
 
 function verificarClick() {
   console.log("Botão clicado");
